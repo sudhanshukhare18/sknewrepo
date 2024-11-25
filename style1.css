@@ -1,0 +1,41 @@
+#amit{
+    font-size: 45px;
+    color: rgb(53, 5, 66);
+    text-decoration: underline;
+    text-decoration-color: rgb(221, 124, 124);
+    text-align: center;
+   
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.io{
+    font-size: 45px;
+    font-weight: bolder;
+    color: rgb(53, 5, 66);
+    text-transform: capitalize;
+    text-align: left;
+    text-shadow: 4px 6px 6px rgb(221, 124, 124);
+}
+#amit1{
+    font-size: 45px;
+    color: rgb(53, 5, 66);
+    text-decoration: underline;
+    text-decoration-color: rgb(221, 124, 124);
+    font-style: italic;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 3px 4px 5px rgba(32, 37, 32, 0.658);
+
+}
+.container{
+    
+    background-color: rgb(101, 225, 183);
+}
+.container h1{
+    color: rgb(53, 5, 66);
+    text-shadow: 3px 4px 5px rgba(32, 37, 32, 0.658);
+}
+.container button{
+    background-color: rgb(254, 254, 254);
+    color: rgb(20, 67, 79);
+}
