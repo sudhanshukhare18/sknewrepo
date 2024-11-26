@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: rgb(253, 178, 246);
+}
+.h1e{
+    font-family: "Parkinsans", sans-serif;
+    color: darkslategrey;
+}
+.h1f{
+    font-family: "Lacquer", system-ui;
+    color: darkslategrey;
+}
+.h1r{
+    font-family: "Noto Serif Ahom", serif;
+    color: darkslategrey;
+    font-size: 20px;
+    background-color: rgb(242, 227, 227);
+}
+.h1t{
+    text-align: left;
+    background-color: rgb(254, 207, 215);
+    padding: 20px;
+}
+.h1t p{
+    padding: 8px 20px;
+}
+.h45g{
+    padding-top: 20px;
+}
