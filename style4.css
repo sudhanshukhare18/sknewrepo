@@ -1,0 +1,12 @@
+.h1e{
+    background-color: rgb(180, 135, 129);
+    
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+    margin: 50px;
+    box-shadow: 10px 10px 50px 10px rgb(231, 148, 138);
+    border-radius: 20px;
+    border: 15px solid rgb(155, 125, 125);
+
+}

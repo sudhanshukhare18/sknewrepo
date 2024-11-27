@@ -1,0 +1,17 @@
+.container{
+    background-color: blanchedalmond;
+    padding: 20px;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    box-shadow: 10px 10px 50px 10px rgb(246, 230, 128);
+    border:  10px solid rgb(219, 219, 167);
+    border-right: 15px double rgb(211, 231, 32);
+    border-left: 15px double rgb(229, 238, 152);
+    //border-radius: 30px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius:40px;
+    border-bottom-left-radius:20px;
+
+}
