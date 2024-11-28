@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(99, 150, 195);
+}
+.h1e{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 40px;
+    padding: 60px;
+    gap: 40px;
+    background-color: rgb(153, 176, 234);
+    box-shadow: 5px 5px 50px 10px rgb(0, 99, 104);
+}
+.h3e{
+    padding: 30px;
+    padding: 50px;
+}
+.h4e{
+    background-color: red;
+    color: whitesmoke;
+    border: 1px solid red;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+}
+.h3e h1{
+    line-height: 15px;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.h3e p{
+    font-size: 20px;
+    font-weight: 200;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.h5e{
+    background-color: blue;
+    color: whitesmoke;
+    border: 1px solid blue;
+    border-radius: 5px;
+    height: 30px;
+    width: 130px;
+}

@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.h1e{
+    background-color: rgb(143, 218, 237);
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    align-items: center;
+}
+.h1e ul{
+     display: flex;
+     list-style: none;
+     gap: 40px;
+}
