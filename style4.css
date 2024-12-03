@@ -2,12 +2,16 @@
     margin: 0;
     padding: 0;
 }
+body{
+    background-color: rgb(159, 131, 181);
+}
 .h0e{
-    background-color: rgb(173, 236, 238);
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     padding: 30px;
     align-items: center;
+    
+    
 }
 .h0e ul{
     list-style: none;
@@ -24,9 +28,10 @@
     margin: 50px;
     box-shadow: 10px 10px 50px 10px rgb(227, 179, 228);
     border-radius: 20px;
-    border: 15px solid rgb(214, 170, 206);
+    border: 15px solid rgb(240, 203, 234);
     align-items: center;
-    line-height: 80px
+    line-height: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
 
 }
@@ -37,4 +42,13 @@
     width: 150px;
     border-radius: 5px;
     box-shadow: 2px 2px 5px 10px rgb(171, 202, 212);
+    
 }
+.h9e{
+    
+}
+header{
+        background-image:url(images/social\ 1.png);
+        background-repeat: no repeat;
+        background-size: cover;
+    }

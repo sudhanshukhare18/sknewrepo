@@ -1,0 +1,19 @@
+header{
+    background-image:url(images/Screenshot\ 2024-11-27\ 230236.png);
+    background-repeat: no repeat;
+    background-size: cover;
+    color: rgb(62, 74, 74);
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 70px;
+    
+    
+}
+.navbar ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+}
