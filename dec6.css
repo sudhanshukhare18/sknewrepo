@@ -1,0 +1,13 @@
+#btn:hover{
+    background-color: antiquewhite;
+    border: none;
+    padding: 30px;
+    border-radius: 90px;
+}
+h1:hover{
+    color: red;
+}
+img:hover{
+    border-radius: 90px;
+    scale: 1.2;
+}
