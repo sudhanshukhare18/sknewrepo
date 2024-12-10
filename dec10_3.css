@@ -1,0 +1,28 @@
+.h1e{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position: relative;
+    animation-name:demo ;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+
+}
+@keyframes demo{
+    0%{
+        left: 0;
+        top: 0;
+    }
+    30%{
+        left: 150px;
+        top: 150px;
+        rotate: 140deg;
+    }
+    60%{
+        top: 0;
+        left: 300px;
+        border: 12px solid;
+        background-color: azure;
+    }
+}
