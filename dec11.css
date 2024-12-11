@@ -1,0 +1,24 @@
+.h1e{
+    height: 400px;
+    background-image: url(images/Q.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation-name: happy;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    height: 100vh;
+}
+@keyframes happy{
+    0%{
+        background-image: url(images/Screenshot\ 2024-11-27\ 230236.png);
+    }
+    30%{
+        background-image: url(images/Screenshot\ 2024-12-04\ 225835.png);
+        
+    }
+    100%{
+        background-image: url(images/Social.png);
+        
+    }
+}
